@@ -1,20 +1,18 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [DoubleCommander](https://github.com/doublecmd/doublecmd)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [DoubleCmd](https://github.com/doublecmd/doublecmd).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./doublecmd-preview.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+Copy ```colors.json``` to either:
 
-## Team
+- The "settings" folder in the program directory (portable version).
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+- User home directory.
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+See [here](https://doublecmd.github.io/doc/en/configuration.html#config_files) for more details.
 
 ## Community
 
